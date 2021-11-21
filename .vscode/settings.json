@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin/Release/net5.0/publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/9b9b8b5f-9945-4e9c-8925-ed8fa55f33cc/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/todo-deploy-6789"
+}
